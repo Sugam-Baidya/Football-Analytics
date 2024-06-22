@@ -1,6 +1,6 @@
 torch
 ultralytics
 pillow
-skimage
+scikit-image
 scikit-learn
 streamlit
