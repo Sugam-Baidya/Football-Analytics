@@ -5,3 +5,4 @@ scikit-image
 scikit-learn
 streamlit_image_coordinates
 streamlit
+opencv-python
